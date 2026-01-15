@@ -4,7 +4,7 @@ This repository contains analysis for both Titanic and Students Performance data
 
 ## Contents
 - titanic_analysis.ipynb – Titanic dataset analysis
-- students_analysis.ipynb – Students performance dataset analysis
+- student_analysis.ipynb – Students performance dataset analysis
 - Dataset_Analysis_Report.docx – Combined analysis report
 
 ## Objectives
