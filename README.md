@@ -1,6 +1,6 @@
-# Task 1 – Understanding Dataset & Data Types
+# Dataset Understanding & Data Types Analysis
 
-This repository contains analysis for both Titanic and Students Performance datasets as part of AI & ML Internship Task 1.
+This repository contains analysis of the Titanic and Students Performance datasets focusing on data understanding, feature types, and data quality.
 
 ## Contents
 - titanic_analysis.ipynb – Titanic dataset analysis
